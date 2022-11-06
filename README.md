@@ -1,5 +1,10 @@
 ## :tada:  VIDEO METADATA EDITOR AND PLAYER:
 
+In this App Video Metadata Editor and Player, this application is providing the facility of searching in Video where searching will be based on metadata and metadata includes people, events, location, Description, date and time. now it sounds interesting like how searching can be done in a video.
+In this project saving videos metadata in database as well as inside the videos. 
+
+Video metadata editor and player is an app which provides you the facility of advance searching in your videos. Advance searching means user can save any part of video of his/her choice by entering some sort of metadata and later on he can perform search based on that metadata.
+
 ![Zoom Bible Study - Made with PosterMyWall](https://user-images.githubusercontent.com/112378013/187147937-1049fac0-3bb6-451a-ad1f-966044fd55db.jpg)
 ![Zoom Bible Study - Made with PosterMyWall (1)](https://user-images.githubusercontent.com/112378013/187148237-2441561c-5707-4468-87a7-8fd1eaf92ef1.jpg)
 ![Zoom Bible Study - Made with PosterMyWall (2)](https://user-images.githubusercontent.com/112378013/187148313-3da95931-09c1-48df-8f4e-82db47cfa562.jpg)
@@ -10,6 +15,7 @@
 # VIDEO METADATA EDITOR AND PLAYER
 
 This project develop in android with local database SQLITE.
+In future this app can be modified in a way like if we add features of other video editing apps including beauty effects, speed modification, adjustment of video, Sound etc. Then this app Video Metadata Editor and Player as whole will become more efficient and effective.
 
 # OBJECTIVES COVER IN THIS PROJECT ARE:
 
