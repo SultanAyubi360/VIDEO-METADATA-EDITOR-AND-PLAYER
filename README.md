@@ -41,3 +41,11 @@ In future this app can be modified in a way like if we add features of other vid
 
 ✔ Search Clips Metadata in gallery
 
+
+### Find this useful? ❤️
+Support it by joining stargazers to this. ⭐
+
+Also, [follow me on GitHub](https://github.com/SultanAyubi360) for my next creations! 🤩
+
+
+
